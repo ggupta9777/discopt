@@ -1,0 +1,31 @@
+# blacklist
+*~
+*.aux
+*.bbl
+*.bib
+*.blg
+*.brf
+*.log
+*.out
+*.pdf
+*.orig
+*build
+*.pyc
+
+# whitelist (use !)
+!.gitignore
+!*.cmake
+!*.txt
+!*.tex
+!*.sty
+!*.bst
+!*.bib
+!*.clo
+!*.cls
+!*.sty
+!*.lua
+!*.h
+!*.cpp
+!*.pxd
+!*.pyx
+!*.py
